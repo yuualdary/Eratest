@@ -31,4 +31,5 @@ page             1//mau di page berapa, untuk page saya set limit = 5
 localhost:8000/api/v1/product/?page=1 //endpoint untuk GET semua product pada page 1, untuk melakukan custom dapat melakukan query param pada postman sesuai dengan key dan value yang sudah saya buat
 localhost:8000/api/v1/product/?cheapest_product=true&atoz=true&lowest_product=110000&page=1 // contoh endpoint untuk mencari product termurah, A-Z, harga terendah di 110000 pada page 1
 
+Maaf jika format tulisan berantakan, untuk melihat tidak berantakan dapat membuka read.md dengan mode plain https://github.com/yuualdary/Eratest/blob/master/README.md?plain=1
 
